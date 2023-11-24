@@ -1,0 +1,30 @@
+
+********************************************************************************
+Log start at : Sat Sep 30 23:59:20 2023
+********************************************************************************
+C:\Users\sge20\Desktop\New folder\Demo\Adv_Interaction_Browser.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\Adv_Interaction_Browser.py
+C:\Users\sge20\Desktop\New folder\Demo\AlertsPopUp.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\AlertsPopUp.py
+C:\Users\sge20\Desktop\New folder\Demo\CheckBoxRadiaButten.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\CheckBoxRadiaButten.py
+C:\Users\sge20\Desktop\New folder\Demo\Chrome_Option.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\Chrome_Option.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\Demo.py
+C:\Users\sge20\Desktop\New folder\Demo\DynamicDropDowns.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\DynamicDropDowns.py
+C:\Users\sge20\Desktop\New folder\Demo\EndToEndPractice.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\EndToEndPractice.py
+C:\Users\sge20\Desktop\New folder\Demo\HandleChildWindow.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\HandleChildWindow.py
+C:\Users\sge20\Desktop\New folder\Demo\HandleFrames.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\HandleFrames.py
+C:\Users\sge20\Desktop\New folder\Demo\JavaScriptExe.py
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\JavaScriptExe.py
+C:\Users\sge20\Desktop\New folder\Demo\UdemyPySeleneum.txt
+C:\Users\sge20\Desktop\New folder\Demo\Demo1\UdemyPySeleneum.txt
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\UdemyPySeleneum.txt
+C:\Users\sge20\Desktop\New folder\Demo\VeryEnglish.txt
+C:\Users\sge20\Desktop\New folder\Demo\Demo1\VeryEnglish.txt
+C:\Users\sge20\Desktop\New folder\Demo\Demo2\VeryEnglish.txt
