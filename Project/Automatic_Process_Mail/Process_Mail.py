@@ -50,7 +50,7 @@ def MailSender(filname,time):
         msg.attach(p)
         s=smtplib.SMTR('smtp.gmail.com',587)
         s.starttls()
-        s.login(fromaddr,"Ashwini@123")
+        s.login(fromaddr,"******")
         text=msg.as_string()
         s.sendmail(fromaddr,toaddr,text)
         s.quit()
